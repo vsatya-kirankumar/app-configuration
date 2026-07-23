@@ -2,4 +2,4 @@ build:
   id: 111
   version: 1.1.1
   name: "Development-GIT-build"
-  type: "Development-build"
+  type: "Product-Development-build"
