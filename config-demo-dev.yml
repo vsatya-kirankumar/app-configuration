@@ -1,5 +1,5 @@
 build:
   id: 111
   version: 1.1.1
-  name: "Development-GIT-build"
+  name: "Dev-GIT-build"
   type: "Product-Development-build"
